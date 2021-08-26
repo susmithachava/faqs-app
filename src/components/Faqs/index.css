@@ -1,0 +1,19 @@
+.app-container {
+  background-color: #f1f5f8;
+  min-height: 100vh;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.faqs-container {
+  background-color: #ffffff;
+  border-radius: 20px;
+}
+.faqs-heading {
+  color: #cb8805;
+  font-family: 'Roboto';
+  font-size: 50px;
+}
